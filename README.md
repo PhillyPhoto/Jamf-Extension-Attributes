@@ -3,10 +3,10 @@
 Published by Luie Lugo.
 
 ## TOC
-##### Folder 1
-Folder description:
+##### User
+User:
 
- * *ea_Name.sh*: Checks for ...
+ * *DefaultShell.sh*: Check the default shell is /bin/bash, if not - change it
     
 
 ##### Coming Soon
